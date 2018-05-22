@@ -2086,5 +2086,3 @@ function base64Decode(str)
 <center><font size=1 color=#444444>.:[Public v1.0]:.</font></center>
 </body>
 </html>
-	
-<!-- Coded by LoFFi & Ls01r //-->
